@@ -1,0 +1,12 @@
+SMAP
+gameover_jsp.java
+JSP
+*S JSP
+*F
++ 0 gameover.jsp
+gameover.jsp
+*L
+1,37:44
+38:81,3
+39,10:84
+*E
